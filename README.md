@@ -165,4 +165,3 @@ mobidetects.xyz
 > The information, analysis, and Indicators of Compromise (IoCs) provided in this repository are published strictly for educational, defensive, and threat intelligence tracking purposes. 
 > 
 > The domains listed in this report are associated with active malware command-and-control infrastructure. **Do not visit, interact with, or attempt to connect to these domains.** The author is not responsible for any misuse of this information or any damage caused by interacting with the documented threat infrastructure.
-```
